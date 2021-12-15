@@ -19,6 +19,8 @@
 
 ## Como o código trabalha
 * Como tabuleiro, utilizei uma matriz de 64 posições, sendo 8 na vertical e 8 na horizontal. Todas as ferramentas relacionadas ao tabuleiro estão em um arquivo exclusivo e trabalham em conjunto com todo o projeto. Todas as movimentações são monitoradas e devidamente tratadas. O terminal é limpo a cada jogada e as peças tem cores diferentes.
+
+
 ![image](https://user-images.githubusercontent.com/85650237/146271997-72e3f6ac-0bb7-4860-b6fe-6e4c91905eaf.png)
 
 ## Finalização do código
