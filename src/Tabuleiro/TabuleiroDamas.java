@@ -139,7 +139,6 @@ public class TabuleiroDamas extends Jogadores {
 
 	public boolean posicaoPossivel() throws InterruptedException, ArrayIndexOutOfBoundsException {
 		int result = 0;
-		System.out.println("Peca: " + pecaSemCor);
 		if (linhaTabuleiro == -91) {
 		} else if (posicaoImpossivel()) {
 			if (tabuleiro[linhaTabuleiro][colunaTabuleiro] != peca) {
